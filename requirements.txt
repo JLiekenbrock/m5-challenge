@@ -1,0 +1,4 @@
+seaborn
+pandas
+category_encoders 
+lightgbm
