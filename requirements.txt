@@ -2,3 +2,6 @@ seaborn
 pandas
 category_encoders 
 lightgbm
+scikit-learn
+pyarrow
+statsforecast
